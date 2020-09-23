@@ -1,2 +1,2 @@
 # WebSocketClientForScala
-##This is My Demo of WebSocketClient For Scala,I used it as an intern at iflytek.
+## WebSocketClient For Scala,iflytek实习学习用到的一个websocket客户端，后未投入使用。
